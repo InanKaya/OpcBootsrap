@@ -23,10 +23,23 @@
     color: #15a1f1 !important;
     
 }
+
 #headerSection{
     background: url('../images/photo.jpg') no-repeat center fixed;
     background-size: cover;
     
+    
+}
+
+#headerSectionService{
+    background: url('../images/photo.jpg') no-repeat center fixed;
+    background-size: cover;
+    
+    
+}
+
+#headerSectionService .row{
+    height: 70vh;
     
 }
 
