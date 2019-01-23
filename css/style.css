@@ -43,6 +43,30 @@
     
 }
 
+#headerSectionContact{
+    background: url('../images/photo.jpg') no-repeat center fixed;
+    background-size: cover;
+    
+    
+}
+
+#headerSectionContact .row{
+    height: 75vh;
+    
+}
+
+#headerSectionPros{
+    background: url('../images/photo.jpg') no-repeat center fixed;
+    background-size: cover;
+    
+    
+}
+
+#headerSectionPros .row{
+    height: 70vh;
+    
+}
+
 .yazi a{
     color: #C0C0C0;
 }
@@ -166,6 +190,25 @@
 .ins {
     color: white;
     font-size: 20px;
+}
+
+.map-container-6{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-6 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+.card-img-top2{
+    width: 400px;
+    height: 220px;
 }
 
 .btn{
